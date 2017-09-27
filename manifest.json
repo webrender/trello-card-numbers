@@ -1,0 +1,19 @@
+{
+  "name": "Card Numbers",
+  "details":"Add card numbers on the front of cards.",
+  "icon": {
+    "url": "./costello_logo.svg"
+  },
+  "author": "webrender",
+  "capabilities": [
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
